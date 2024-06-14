@@ -6,7 +6,7 @@ import cors from 'cors';
 const app = express();
 
 // Use environment variables for CORS origin
-const corsOrigin = "https://vyapaar-eosin.vercel.app";
+const corsOrigin = "https://jha-shubham19.github.io";
 
 // Set up CORS in the Express app
 app.use(cors({
